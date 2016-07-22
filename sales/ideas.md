@@ -20,6 +20,8 @@ Django Girls shirt
 
 **Trigger Statement**: If you're a Django lover surrounded by new programmers who don't yet know about Django, buy an extra comfy Django Girls shirt.
 
+**Tweetable**: If you're a Django lover surrounded by new coders unfamiliar with Django, buy an extra comfy Django Girls shirt! 😮👕✨
+
 
 Code Like A Girl shirt
 ----------------------
@@ -37,12 +39,16 @@ Code Like A Girl shirt
 
 **Trigger Statement**: If you need a birthday present for a programmer concerned about diversity in the tech community, get a Code Like a Girl shirt.  They're really comfortable!
 
+**Tweetable**: Code Like a Girl shirt makes a great comfy birthday present for a programmer concerned about diversity in tech! 🎂💻🎉
+
 
 - Problem: You recognize that there's a problem with diversity in tech
 - Target Audience: Tech speakers, influencers, and organizers
 - Solution: Buy a Code Like a Girl shirt
 
 **Trigger Statement**: Hey tech speakers and organizers!  Wear this shirt on stage to let your audience know you recognize there's a diversity problem in tech.
+
+**Tweetable**: 👋 tech speakers/organizers, wearing this will signal to your audience that you recognize our diversity problem 👕💖📣
 
 
 "This is What a Programmer Looks Like" shirt
@@ -54,9 +60,13 @@ Code Like A Girl shirt
 
 **Trigger Statement**: If you're a programmer and you want the world to know it but you don't like black shirts, buy a "This is What a Programmer Looks Like" shirt.
 
+**Tweetable**: If you're a programmer and you want the world to know it but you don't like black shirts, get this colorful one! 📢👕🌈
+
 
 - Problem: People don't always realize that you write code
 - Target Audience: People who are picky about their shirts
 - Solution: Buy a "This is What a Programmer Looks Like" shirt
 
 **Trigger Statement**: You want everyone to know you write code, but you don't want to wear a stiff, ill-fitting, itchy tech shirt: buy this super comfortable shirt.
+
+**Tweetable**: A super comfy shirt for when you want folks to know you can code, but you don't like itchy unfitted tech shirts ✨⌨👕🌈
