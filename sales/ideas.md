@@ -3,6 +3,20 @@ Idea Brainstorm for Sales Copy
 
 Thought exercise for constructing sales copy.
 
+Django Girls Stickers
+---------------------
+
+link: https://store.djangogirls.org/products/pack-of-django-girls-stickers
+
+
+- target - anyone really, but event organizers and swag givers especially - for promoting love, happiness, and djangogirls
+- problem - bare laptops? sadness? undecorated electronics? lack of cool stickers for trading?
+- solution - buy some stickers and spread the love
+ 
+ **Trigger statement**: "Do you think your local tech community could use more awesome? Spread the love with these Django Girls Sticker packs."
+ 
+ **Twitter statement**: Spread the love in your local tech community with these Django Girls Sticker packs 💞💥👋https://store.djangogirls.org/products/pack-of-django-girls-stickers
+
 
 Django Girls shirt
 ------------------
